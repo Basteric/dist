@@ -1,0 +1,16 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\basti\\\\Desktop\\\\nuxt-101-master\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_21b4a8c5"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\basti\\\\Desktop\\\\nuxt-101-master\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a5b4a782"
+  }
+]
